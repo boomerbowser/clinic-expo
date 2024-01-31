@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37274d61-93c9-4368-b6e4-ea8aed7fd865"
+      }
+    },
+    "owner": "boomerbowser"
   }
 }
